@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://strong-flan-647a02.netlify.app"
 languageCode = "en-us"
 title = "Ink"
 theme = "ink"
