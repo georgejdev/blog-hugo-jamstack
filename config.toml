@@ -1,4 +1,4 @@
-baseURL = "blog-jamstack-hugo-test.netlify.app"
+baseURL = "https://blog-jamstack-hugo-test.netlify.app"
 languageCode = "en-us"
 title = "Ink"
 theme = "ink"
