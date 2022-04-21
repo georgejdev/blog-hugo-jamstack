@@ -1,4 +1,4 @@
-baseURL = "https://leafy-ganache-17adac.netlify.app"
+baseURL = "blog-jamstack-hugo-test.netlify.app"
 languageCode = "en-us"
 title = "Ink"
 theme = "ink"
