@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://leafy-ganache-17adac.netlify.app"
 languageCode = "en-us"
 title = "Ink"
 theme = "ink"
