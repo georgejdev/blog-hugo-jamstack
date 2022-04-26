@@ -3,7 +3,7 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 
   media_folder: 'static/images/uploads'
-  public_folder: 'images/uploads'
+  public_folder: "/images/uploads"
 
   collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
